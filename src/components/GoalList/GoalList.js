@@ -2,7 +2,7 @@ import React from 'react'
 import './GoaList.css'
 
 const GoalList = props => {
-  console.log(props.goals)
+  // console.log(props.goals)
 
   return (
     <ul className='goal-list'>
